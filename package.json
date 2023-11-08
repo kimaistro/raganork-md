@@ -19,7 +19,7 @@
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.0.1",
     "@whiskeysockets/baileys": "6.4.0",
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
